@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: hacker0x01/docs.hackerone.com
+  repo: sred9/hackeronenetlifycms
 
 media_folder: static/assets
 
