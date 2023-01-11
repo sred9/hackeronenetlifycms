@@ -14,7 +14,7 @@
     "gatsby-plugin-sharp": "^1.6.42",
     "gatsby-remark-images": "^1.5.61",
     "gatsby-source-filesystem": "^1.5.32",
-    "gatsby-transformer-remark": "^1.7.40",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^1.6.21",
     "netlify-cms": "^1.6.0",
     "react-helmet": "^5.2.0"
